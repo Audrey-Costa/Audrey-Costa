@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<div>
+  ![Snake animation](https://github.com/Audrey-Costa/Audrey-Costa/blob/output/github-contribution-grid-snake.svg)
+</div>
 <!--
 **Audrey-Costa/Audrey-Costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
