@@ -15,6 +15,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Audrey-Costa&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 ![Snake animation](https://github.com/Audrey-Costa/Audrey-Costa/blob/output/github-contribution-grid-snake.svg)
 <a href="https://app.dooboo.io/Audrey-Costa"><img src="https://server.dooboo.io/github-stats/Audrey-Costa" width="600" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Audrey-Costa&theme=git-dark&border_radius=10&locale=pt-br&background=080101)](https://git.io/streak-stats)
+</div>
+  
+<div align="center">
+    <img height="300px" src="https://metrics.lecoq.io/Audrey-Costa?template=classic&config.timezone=Asia%2FShanghai"/>
 </div>
 <!--
 **Audrey-Costa/Audrey-Costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
