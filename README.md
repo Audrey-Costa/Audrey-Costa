@@ -1,9 +1,9 @@
-<div style="display:flex;justify-content: center;">
+<div align="center">
+  <h1 style="background-image:linear-gradient:(to right, #3bd9d9, #b527cf)">Hi There 👋</h1>
   <img align="center" src="./.github/assets/octocat-1666392353916.png" style="width:200px;"/>
-  <h1 align="left" style="writing-mode:vertical-rl;background-image:linear-gradient:(to right, #3bd9d9, #b527cf)">Hi There 👋</h1>
 </div>
 
-<div style="display:flex; justify-content: center;margin-right:25px;">
+<div align="center">
   <a href = "mailto:audreycosta@nano.ufrj.br" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&color=white" target="_blank">
   </a>
@@ -12,21 +12,34 @@
   </a>
 </div>
 
+<!--Sequence Strike-->
+
+ <div align="center"> 
+  <a href="https://git.io/streak-stats" >
+   <img src="https://streak-stats.demolab.com?user=Audrey-Costa&theme=git-dark&border_radius=10&locale=pt-br&background=080101" />
+  </a>
+</div>
+
 <!--Most Used Languages-->
-
-<div style="display:flex; flex-direction:column; justify-content: center;">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey-Costa&layout=compact&theme=gotham&hide_border=true" />
-
-###
-###
-###
+<div align="center">
+    <img height=150px src="https://github-readme-stats.vercel.app/api?username=Audrey-Costa&layout=compact&theme=merko&border_color=33FF33&custom_title=Github%20Status&show_icons=true" />
+    <img height=150px src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey-Costa&layout=compact&theme=merko&border_color=33FF33&langs_count=10&card_width=400&custom_title=Linguagens%20Mais%20Usadas" />
+</div>
 
 <!--Github Trophies-->
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
+<div align="center">
+  <a>
+    <img src="https://github-profile-trophy.vercel.app/?username=Audrey-Costa&theme=radical&column=4&margin-w=15&title=Followers,Repositories,Stars,Commits" />
+  </a> 
+</div>
 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Audrey-Costa&theme=radical&column=4&margin-w=15&title=Followers,Repositories,Stars,Commits"/>
-  </a>  
+<!--Attribute Stats-->
+
+<div align="center">  
+  <a href="https://app.dooboo.io/Audrey-Costa">
+    <img src="https://server.dooboo.io/github-stats/Audrey-Costa" width="600" />
+  </a>
 </div>
 
 <!--Snake-->
@@ -37,27 +50,13 @@
 
 </div>
 
-<!--Attribute Stats-->
-
-<div align="center">  
-  <a href="https://app.dooboo.io/Audrey-Costa"><img src="https://server.dooboo.io/github-stats/Audrey-Costa" width="600" /></a>
-</div>
-
-<!--Sequence Strike-->
-
- <div align="center" display="flex"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Audrey-Costa&show_icons=true&theme=gotham" alt="Audrey-Costa" />
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Audrey-Costa&theme=git-dark&border_radius=10&locale=pt-br&background=080101)](https://git.io/streak-stats)
-</div>
-
 <!--Git Info-->
 
 <div align="center">
     <img width="600px" src="https://metrics.lecoq.io/Audrey-Costa?template=classic"/>
 </div>
 
-<img src="./.github/assets/Bottom.svg" style="height:300px;margin-top:-150px;"/>
+<img src="./.github/assets/Bottom.svg"/>
 
 
 <!--
