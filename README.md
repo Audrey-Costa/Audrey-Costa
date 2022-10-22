@@ -12,17 +12,16 @@
   </a>
 </div>
 
-
-<!--Github Trophies-->
+<!--Most Used Languages-->
 
 <div style="display:flex; flex-direction:column; justify-content: center;">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img  style="width:1800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey-Costa&layout=compact&theme=gotham&hide_border=true" />
-  </a>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Audrey-Costa&layout=compact&theme=gotham&hide_border=true" />
 
 ###
 ###
 ###
+
+<!--Github Trophies-->
 ### 🏆 GitHub Trophies
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -55,7 +54,7 @@
 <!--Git Info-->
 
 <div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/Audrey-Costa?template=classic"/>
+    <img width="600px" src="https://metrics.lecoq.io/Audrey-Costa?template=classic"/>
 </div>
 
 <img src="./.github/assets/Bottom.svg" style="height:300px;margin-top:-150px;"/>
