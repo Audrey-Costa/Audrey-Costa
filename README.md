@@ -86,12 +86,6 @@
 
 </div>
 
-<!--Git Info-->
-
-<div align="center">
-    <img width="600px" src="https://metrics.lecoq.io/Audrey-Costa?template=classic"/>
-</div>
-
 <img src="./.github/assets/Bottom.svg"/>
 
 
