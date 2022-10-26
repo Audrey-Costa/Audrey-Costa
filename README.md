@@ -1,7 +1,11 @@
-<h1>Hi! My name is Audrey and I'm a FullStack Developer in formation!</h1>
+<h1>Audrey Costa</h1>
+
+<p align="left">My full name is Audrey Wallace da Costa Barros, but you can call me just Audrey and I'm almost a full stack developer graduate from Driven Education. Born in Brazil, I love music and technology.</p>
+
+My first contact with programming was python but actually I've been working with **Javascript / Typescript**, **Node**, **React**, **MongoDB**, **PostgreSQL** and some others technologies.
 
 <div align="center">
-  <h2 style="background-image:linear-gradient:(to right, #3bd9d9, #b527cf)">Hi There 👋</h2>
+  <h3>Hi There 👋</h2>
   <img align="center" src="./.github/assets/octocat-1666392353916.png" style="width:200px;"/>
 </div>
 
@@ -13,6 +17,8 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 </div>
+
+
 
 <!--Sequence Strike-->
 
