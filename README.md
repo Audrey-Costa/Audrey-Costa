@@ -47,18 +47,25 @@ My first contact with programming was python but actually I've been working with
    <img height=40px src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img height=40px src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+   <img height=40px src="https://img.shields.io/badge/AXIOS-671DDF?style=for-the-badge&logo=axios&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+   <img height=40px src="https://img.shields.io/badge/redis-DC382C?style=for-the-badge&logo=redis&logoColor=white ">
    <img height=40px src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+   <img height=40px src="https://img.shields.io/badge/cypress-04BE8E?style=for-the-badge&logo=cypress&logoColor=white" >
    <img height=40px src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+   <img height=40px src="https://img.shields.io/badge/NGINX-28A745?style=for-the-badge&logo=Nginx&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+   <img height=40px src="https://img.shields.io/badge/github-FFFFFF?style=for-the-badge&logo=github&logoColor=black" />
    <img height=40px src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+   <img height=40px src="https://img.shields.io/badge/wakatime-FFFFFF?style=for-the-badge&logo=wakatime&logoColor=black" />
    <img height=40px src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+   <img height=40px src="https://img.shields.io/badge/slack-611F69?style=for-the-badge&logo=slack&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
