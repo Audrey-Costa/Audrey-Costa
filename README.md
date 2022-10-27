@@ -1,6 +1,6 @@
 <h1>Audrey Costa</h1>
 
-<p align="left">My full name is Audrey Wallace da Costa Barros, but you can call me just Audrey and I'm almost a full stack developer graduate from Driven Education. Born in Brazil, I love music, animes,games, science and technology.</p>
+<p align="left">My full name is Audrey Wallace da Costa Barros, but you can call me just Audrey and I'm almost a full stack developer graduate from Driven Education. Born in Brazil, I love music, animes, games, science and technology.</p>
 
 My first contact with programming was python but actually I've been working with **Javascript / Typescript**, **Node**, **React**, **MongoDB**, **PostgreSQL** and some others technologies.
 
