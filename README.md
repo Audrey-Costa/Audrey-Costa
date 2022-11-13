@@ -1,20 +1,21 @@
 <h1>Audrey Costa</h1>
 
-<p align="left">My full name is Audrey Wallace da Costa Barros, but you can call me just Audrey and I'm almost a full stack developer graduate from Driven Education. I was born in Brazil, I love music, animes, games, science and technology.</p>
+<p align="left">
+Olá, meu nome é Audrey e eu sou um desenvolvedor Fullstack formado pela Driven Education. Eu amo música, animes, jogos, ciência e tecnologia.</p>
 
-My first contact with programming was python but recently I've been working with **Javascript / Typescript**, **Node**, **React**, **MongoDB**, **PostgreSQL** and some others technologies.
+Meu primeiro contato com programação foi aprendendo python na faculdade mas hoje em dia eu tenho trabalhado desenvolvendo aplicações em **Javascript / Typescript**, **Node**, **React**, **MongoDB**, **PostgreSQL** e outras tecnologias.
 
 <div align="center">
-  <h3>Hi There 👋</h2>
+  <h3>Olá 👋! Você pode entrar em contato comigo clicando abaixo no cards abaixo que o redirecionará ao meu email e linkedin</h2>
   <img align="center" src="./.github/assets/octocat-1666392353916.png" style="width:200px;"/>
 </div>
 
 <div align="center">
   <a href = "mailto:audreycosta@nano.ufrj.br" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&color=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red&color=white" target="_blank" height="50px">
   </a>
   <a href="https://www.linkedin.com/in/audrey-wallace-da-costa-barros-160674184/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" height="50px">
   </a>
 </div>
 
@@ -74,22 +75,6 @@ My first contact with programming was python but recently I've been working with
 </div>
 
 ##
-
-<!--Github Trophies-->
-## 🏆 GitHub Trophies
-<div align="center">
-  <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=Audrey-Costa&theme=radical&column=4&margin-w=15&title=Followers,Repositories,Stars,Commits" />
-  </a> 
-</div>
-
-<!--Attribute Stats-->
-
-<div align="center">  
-  <a href="https://app.dooboo.io/Audrey-Costa">
-    <img src="https://server.dooboo.io/github-stats/Audrey-Costa" width="600" />
-  </a>
-</div>
 
 <!--Snake-->
 
