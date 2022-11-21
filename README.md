@@ -48,6 +48,7 @@ Meu primeiro contato com programação foi aprendendo python na faculdade mas ho
    <img height=40px src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img height=40px src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+   <img height=40px src="https://img.shields.io/badge/Socket.IO-FFFFFF?style=for-the-badge&logo=Socket.IO&logoColor=black">
    <img height=40px src="https://img.shields.io/badge/AXIOS-671DDF?style=for-the-badge&logo=axios&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/redis-DC382C?style=for-the-badge&logo=redis&logoColor=white ">
