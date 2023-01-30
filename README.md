@@ -48,6 +48,7 @@ Meu primeiro contato com programação foi aprendendo python na faculdade mas ho
    <img height=40px src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
    <img height=40px src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+   <img height=40px src="https://img.shields.io/badge/Spring_Boot-55FF33?style=for-the-badge&logo=spring&logoColor=black" />
    <img height=40px src="https://img.shields.io/badge/Socket.IO-FFFFFF?style=for-the-badge&logo=Socket.IO&logoColor=black">
    <img height=40px src="https://img.shields.io/badge/AXIOS-671DDF?style=for-the-badge&logo=axios&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -57,6 +58,7 @@ Meu primeiro contato com programação foi aprendendo python na faculdade mas ho
    <img height=40px src="https://img.shields.io/badge/cypress-04BE8E?style=for-the-badge&logo=cypress&logoColor=white" >
    <img height=40px src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+   <img height=40px src="https://img.shields.io/badge/kubernetes-0000FF?style=for-the-badge&logo=kubernetes&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
    <img height=40px src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
